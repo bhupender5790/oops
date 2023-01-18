@@ -1,4 +1,4 @@
-<h1>inheritance</h1>
+<h4> inheritance</h4>
 
 <?php
  class employe {
